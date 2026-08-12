@@ -1,0 +1,3 @@
+var posts=["drama/36668.html","drama/28463.html","drama/33109.html","drama/22227.html","resource/37372.html","drama/56592.html","drama/95451.html","drama/15521.html","drama/71121.html","drama/81873.html","drama/12878.html","resource/94822.html","resource/16801.html","resource/14597.html","resource/44751.html","resource/19271.html","resource/27666.html","resource/92259.html"];function toRandomPost(){
+    window.location.href='/'+posts[Math.floor(Math.random() * posts.length)];
+  };

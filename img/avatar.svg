@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Hexo SEO Starter avatar</title>
+  <desc id="desc">A blue circle containing the letters HS</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#425aef"/>
+      <stop offset="1" stop-color="#20b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="64" fill="url(#g)"/>
+  <circle cx="128" cy="128" r="82" fill="#fff" opacity=".14"/>
+  <text x="128" y="148" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#fff">HS</text>
+</svg>
